@@ -6,4 +6,4 @@
  - Introducción al Pseudocódigo
 
 ### 06/10/2021 ###
--Pseudocódigo:Tipos de variables,operadores,asignaciones,funciones y entrada/salida de información
+-Pseudocódigo:Tipos de variables, operadores, asignaciones, funciones y entrada/salida de información
