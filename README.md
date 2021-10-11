@@ -11,3 +11,5 @@
 ### 11/10/2021 ###
  - Pseudocódigo: Manejo diferentes funciones
  - Pseudocódigo:Estructuras alternativas
+ - Pseudocódigo:Estructuras repetitivas
+ 
