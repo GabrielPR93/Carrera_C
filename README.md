@@ -13,5 +13,8 @@
  - Pseudocódigo:Estructuras alternativas
  - Pseudocódigo:Estructuras repetitivas
  
- ### 12/10/2021 ###
+### 12/10/2021 ###
  - Pseudocódigo:Arrays
+ 
+### 13/10/2021 ###
+ - Pseudocódigo:Programación estructurada
