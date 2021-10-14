@@ -18,3 +18,7 @@
  
 ### 13/10/2021 ###
  - Pseudocódigo:Programación estructurada
+
+### 14/10/2021 ###
+ - Introducción a los lenguajes de programación:Java, C++, Python
+ - Introducción a las estructuras de datos
