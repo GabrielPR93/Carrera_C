@@ -27,4 +27,3 @@
  - Análisis de algoritmos
  - Estructuras de datos
  - Datos primitivos y compuestos
- - Tipos de datos genéricos y abstractos 
