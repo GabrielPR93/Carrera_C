@@ -23,8 +23,13 @@
  - Introducción a los lenguajes de programación:Java, C++, Python
  - Introducción a las estructuras de datos
  
- ### 15/10/2021 ###
+### 15/10/2021 ###
  - Análisis de algoritmos
  - Estructuras de datos
  - Datos primitivos y compuestos
  - Tipos de datos genéricos y abstractos 
+ 
+### 16/10/2021 ###
+ - Arrays estáticos
+ - Arrays Dinámicos
+ - Listas ligadas
