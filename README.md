@@ -1,7 +1,7 @@
 # Carrera en C++
 
 ### 05/10/2021 ###
->Introduccion a la programacion
+>Introducción a la programación
 
  - Introducción a la programación
  - Instalación y configuración del entorno de trabajo:PSeInt
