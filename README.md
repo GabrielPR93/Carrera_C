@@ -33,3 +33,8 @@
  - Arrays estáticos
  - Arrays Dinámicos
  - Listas ligadas
+ 
+ ### 18/10/2021 ###
+ - Pilas
+ - Colas
+ - Monticulos
