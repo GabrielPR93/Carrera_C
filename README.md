@@ -1,6 +1,8 @@
 # Carrera en C++
 
 ### 05/10/2021 ###
+>Introduccion a la programacion
+
  - Introducción a la programación
  - Instalación y configuración del entorno de trabajo:PSeInt
  - Introducción al Pseudocódigo
@@ -20,6 +22,8 @@
  - Pseudocódigo:Programación estructurada
 
 ### 14/10/2021 ###
+>Introducción a las estructuras de datos
+
  - Introducción a los lenguajes de programación:Java, C++, Python
  - Introducción a las estructuras de datos
  
@@ -38,3 +42,6 @@
  - Pilas
  - Colas
  - Monticulos
+ 
+ >SOLID y patrones de diseño
+ - Introducción SOLID y patrones de diseño
