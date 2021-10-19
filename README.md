@@ -38,10 +38,13 @@
  - Arrays Dinámicos
  - Listas ligadas
  
- ### 18/10/2021 ###
+### 18/10/2021 ###
  - Pilas
  - Colas
  - Monticulos
  
  >SOLID y patrones de diseño
  - Introducción SOLID y patrones de diseño
+ 
+### 19/10/2021 ###
+ - SOLID
