@@ -48,3 +48,8 @@
  
 ### 19/10/2021 ###
  - SOLID
+ 
+### 20/10/2021 ###
+ - Principios de diseño de software
+ - Patrones de diseño
+ - Patrones creacionales
