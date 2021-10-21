@@ -53,3 +53,10 @@
  - Principios de diseño de software
  - Patrones de diseño
  - Patrones creacionales
+ 
+### 21/10/2021 ###
+ - Patrones estructurales
+
+
+
+
