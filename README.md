@@ -56,7 +56,10 @@
  
 ### 21/10/2021 ###
  - Patrones estructurales
-
+ 
+### 22/10/2021 ###
+ - Patrones de comportamiento
+ - Antipatrones
 
 
 
