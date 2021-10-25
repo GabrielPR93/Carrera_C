@@ -64,6 +64,7 @@
 ### 25/10/2021 ###
 >Introducción a C++
 - Origen de C++
+- Tipos básicos
  
 
 
