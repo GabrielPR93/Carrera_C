@@ -60,6 +60,11 @@
 ### 22/10/2021 ###
  - Patrones de comportamiento
  - Antipatrones
+ 
+### 25/10/2021 ###
+>Introducción a C++
+- Origen de C++
+ 
 
 
 
