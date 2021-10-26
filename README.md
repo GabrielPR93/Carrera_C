@@ -65,6 +65,11 @@
 >Introducción a C++
 - Origen de C++
 - Tipos básicos
+
+### 26/10/2021 ###
+ - Estructuras de control
+ - Funciones
+ - Organización de código
  
 
 
