@@ -71,6 +71,8 @@
  - Funciones
  - Organización de código
  
-
+### 27/10/2021 ###
+>Curso de Git
+ - Introducción a Git y conceptos básicos
 
 
