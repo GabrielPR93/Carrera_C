@@ -77,4 +77,6 @@
 
 ### 28/10/2021 ###
  - Herramientas de trabajo
-
+ 
+### 29/10/2021 ###
+ - Organización del código fuente y otros elementos del proyecto
