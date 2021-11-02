@@ -80,3 +80,6 @@
  
 ### 29/10/2021 ###
  - Organización del código fuente y otros elementos del proyecto
+
+### 02/11/2021 ###
+ - Flujos de trabajo
