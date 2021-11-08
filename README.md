@@ -63,8 +63,8 @@
  
 ### 25/10/2021 ###
 >Introducción a C++
-- Origen de C++
-- Tipos básicos
+ - Origen de C++
+ - Tipos básicos
 
 ### 26/10/2021 ###
  - Estructuras de control
@@ -93,3 +93,9 @@
  - Memoria
  - Estructura de datos
  - Clases
+ 
+### 08/11/2021 ###
+ - Herencia
+>Programación genérica y concurrente
+ - Introducción
+ - Macros
